@@ -1,0 +1,2 @@
+# UE_SimpleGhostTrail
+UE_SimpleGhostTrail
